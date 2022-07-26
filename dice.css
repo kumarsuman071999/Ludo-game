@@ -1,0 +1,40 @@
+.p2{
+    display: inline;
+    position: absolute;
+    right: 200px;
+}
+body{
+    background-color: gray;
+    text-align: center;
+    margin-top: 100px;
+}
+.p1{
+    display: inline-block;
+    position: absolute;
+    left: 200px;
+}
+h1{
+    color: blueviolet;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 100px;
+    margin-bottom: 100px;
+}
+.bottomContainer{
+    margin: 400px auto 200px auto;
+}
+.p1img{
+    margin-top: 100px;
+    width: 200px;
+    height: 200pxpx;
+    position: relative;
+    right: 200px;
+
+}
+.p2img{
+    margin-top: 100px;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 200px;
+
+}
